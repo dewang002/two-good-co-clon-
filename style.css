@@ -12,11 +12,11 @@ body {
 }
 @font-face {
   font-family: futura;
-  src: url(/Futura-Bold.ttf);
+  src: url(Futura-Bold.ttf);
 }
 @font-face {
   font-family: helvetica;
-  src: url(/helvetica-light-587ebe5a59211.ttf);
+  src: url(helvetica-light-587ebe5a59211.ttf);
 }
 
 @media (min-width: 768px) {
